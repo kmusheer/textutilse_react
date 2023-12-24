@@ -1,4 +1,4 @@
-# textutilse dsj
+# textutilse
 THis is  text editor wher you have multiple optionsnto edit your text
 
 ![Light mode](https://github.com/kmusheer/textutilse/assets/99362063/865f5c33-d213-4cc3-b0c3-d2749b58817b)
