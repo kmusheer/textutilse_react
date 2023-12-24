@@ -1,9 +1,6 @@
 # textutilse
 Here use react.js library 
-THis is  text editor wher you have multiple options
-
-Without library just in 
-# Vanilla Javascript
+THis is  text editor wher you have multiple optionsnto edit your text
 
 # textEditor
 https://github.com/kmusheer/textEditor
